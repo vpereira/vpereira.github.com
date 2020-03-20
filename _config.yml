@@ -16,7 +16,7 @@
 title: Toilet Paper Statistiscs
 email: "hamster@klopapier-apokalypse.de"
 description: >- # this means to ignore newlines until "baseurl:"
-  Statistics about toilet paper in Germany in the World
+  Statistics about toilet paper in Germany and in the World
 #baseurl: "" # the subpath of your site, e.g. /blog
 #url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
