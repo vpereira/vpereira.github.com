@@ -1,6 +1,4 @@
 
-# Toilet Paper Statistisc in Crisis time
-
 ## Abstract
 
 In the time of Crisis like the outbreak of pandemies like COVID-19, the rush for toilet paper in Countries where people suffer from _Fremdangst_ increases rapidaly. In this paper we try to understand the toilet paper usage in times like this, try to predict the usage along the time as much as find a co-relation between the concept of _Fremdangst_ and usage of toilet paper
