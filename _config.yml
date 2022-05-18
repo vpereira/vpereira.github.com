@@ -13,8 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Toilet Paper Statistiscs
-email: "hamster@klopapier-apokalypse.de"
+title: Powernamachine game studio
+email: "contact@powernamachine.com"
 description: >- # this means to ignore newlines until "baseurl:"
   Statistics about toilet paper in Germany and in the World
 #baseurl: "" # the subpath of your site, e.g. /blog
